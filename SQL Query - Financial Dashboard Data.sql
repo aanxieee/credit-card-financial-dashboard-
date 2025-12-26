@@ -1,4 +1,3 @@
--- ye sql file main csv files se data ko database mein laane ke liye queries  hain
 
 -- 0. pehle database create krrre, saara data isi mein aayega
 CREATE DATABASE ccdb;
