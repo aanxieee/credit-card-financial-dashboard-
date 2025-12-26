@@ -159,4 +159,8 @@ These insights help stakeholders move from raw data dumps to actionable decision
 - Implement role‑level security in Power BI based on geography or segment.
 - Automate the CSV load with ETL/ELT tools (e.g., scheduled scripts or pipelines) instead of manual `COPY`.
 
+## Author
+Project by **Aanya Mittal** .  
+Portfolio: [aanxiee.com](https://www.aanxiee.com/)
+
 This README documents how the project turns unstructured, unmanageable files into a robust data model and BI layer that produces repeatable, automated financial insights.
